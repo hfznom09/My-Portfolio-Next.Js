@@ -1,6 +1,5 @@
-import React from 'react'
 import { RxHome, RxPerson, RxDashboard, RxClipboard } from "react-icons/rx";
-const SkillData = [
+export const SkillData = [
     {
       name: "Html 5",
       Image: "/html.png",

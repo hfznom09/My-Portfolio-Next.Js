@@ -1,5 +1,5 @@
 "use client";
-import { NavLinks } from "../Constant/page";
+import { NavLinks } from "../Constant/index";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import React, { useEffect, useState } from "react";

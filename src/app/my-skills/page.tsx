@@ -2,9 +2,9 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
+import { SkillData } from "../Constant/index";
 import Image from "next/image";
 import { Autoplay } from "swiper/modules";
-import SkillData from "@/app/Constant/page";
 
 
 const Page = () => {
