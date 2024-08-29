@@ -1,5 +1,5 @@
 import { RxHome, RxPerson, RxDashboard, RxClipboard } from "react-icons/rx";
-export const SkillData = [
+const SkillData = [
     {
       name: "Html 5",
       Image: "/html.png",
@@ -119,4 +119,4 @@ export const SkillData = [
     },
   ];
   
-  
+  export default SkillData
