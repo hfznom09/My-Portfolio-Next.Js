@@ -29,7 +29,7 @@ export default function Home() {
               Web Development
             </span>
             {" "}
-            Hi I&aposam
+            Hi I am
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500 sm:text-left">
               {" "}
               Noman Anwar

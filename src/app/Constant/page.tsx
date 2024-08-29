@@ -1,3 +1,4 @@
+import React from 'react'
 import { RxHome, RxPerson, RxDashboard, RxClipboard } from "react-icons/rx";
 const SkillData = [
     {
